@@ -3,8 +3,8 @@
 -JavaScript programs are written using the Unicode character set. Unicode is a superset of ASCII and Latin-1 and supports virtually every written language currently used
 
 # Case Sensitivity
-JavaScript is a case-sensitive language. This means that language keywords, variables,function names, and other identifiers must always be typed with a consistent capitalization of letters.
-Eaxmple :
+JavaScript is a case-sensitive language. This means that language keywords, variables,function names, and other identifiers must always be typed with a consistent capitalization of letters.\
+Eaxmple :\
 The while keyword must be typed “while,” not “While” or “WHILE.”
 
 # Whitespace, Line Breaks, and Format Control Characters
