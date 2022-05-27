@@ -1,8 +1,8 @@
-Identifiers and Reserved Words
+# Identifiers and Reserved Words
 
--An identifier is simply a name. In JavaScript, identifiers are used to name variables and functions and to provide labels for certain loops in JavaScript code.
+- An identifier is simply a name. In JavaScript, identifiers are used to name variables and functions and to provide labels for certain loops in JavaScript code.
 
--A JavaScript identifier must begin with a letter, an underscore (_), or a dollar sign ($).
+- A JavaScript identifier must begin with a letter, an underscore (_), or a dollar sign ($).
 Example:
 * i
 * my_variable_name
