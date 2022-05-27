@@ -22,6 +22,7 @@ var a; a = 3; console.log(a);
 - Ex :2
 
 var y = x + f
+
 (a+b).toString()
 
 JavaScript interprets the code like this:
@@ -31,7 +32,9 @@ var y = x + f(a+b).toString();
 - Ex : 3
 
 x
+
 ++
+
 y
 
 It is parsed as x; ++y;, not as x++; y.
