@@ -27,5 +27,5 @@ If you need to include a newline character in a string literal,use the character
 
 The backslash character **('\')** has a special purpose in JavaScript strings. Combined with the character that follows it, it represents a character that is not otherwise representable within the string. For example, \n is an escape sequence that represents a newline character.
 
-![Alt text](/escape-sequence.png?raw=true "Title")
+<img src="./escape-sequence.PNG" width="128"/>
 
